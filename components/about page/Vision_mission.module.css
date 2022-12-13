@@ -1,0 +1,59 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px;
+
+  color: #4a2c15;
+  text-align: center;
+}
+
+.vision {
+  display: flex;
+  flex-direction: column;
+  background: #f5ba42;
+
+  width: 956px;
+
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 10px 10px #4a2c15;
+
+  padding: 26px;
+}
+
+.vision h2 {
+  font-size: 40px;
+  margin: 0;
+}
+
+.vision p {
+  font-size: 20px;
+  margin: 0;
+}
+
+.mission {
+  display: flex;
+  flex-direction: column;
+  background: #f5ba42;
+
+  width: 956px;
+
+  border-radius: 10px;
+  margin: 20px;
+  box-shadow: 10px 10px #4a2c15;
+
+  padding: 26px;
+}
+
+.mission h2 {
+  font-size: 40px;
+  margin: 0;
+}
+
+.mission p {
+  font-size: 20px;
+  margin: 0;
+}
